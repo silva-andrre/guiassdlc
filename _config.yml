@@ -21,7 +21,7 @@
 title: Guia Introdutório S-SDLC
 email: silva603@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Guia criado para compartilhar minha experiencia e conhecimentos em criar, utilizar e evoluir, esteiras de desenvolvimento seguro.
+    Guia criado para compartilhar minha experiência e conhecimentos em criar, utilizar e evoluir, esteiras de desenvolvimento seguro.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "silva-andrre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: @__s1lv4__
