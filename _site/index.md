@@ -1,5 +1,5 @@
 Guia Introdutório a S-SDLC (Esteira de Desenvolvimento Seguro)
-{: .text-center .fw-700 .fs-10 }
+{: .text-center .fw-700 .fs-09 }
 
 Este guia fo criado por mim, com o intuito de compartilhar o conhecimento adquirido durante meus estudos e aplicações práticas em ambientes produtivos.
 
@@ -34,7 +34,7 @@ Fases de Tecnologias e Processos:
 		4.3 - Análise estática de código (SAST)
 		4.4 - Análise dinâmica de código (DAST)
 
-	5 - Verificação
+	5 - Executando Pentest
 		5.1 - Validar se as ameaças identificadas foram evitadas
 		5.2 - Pentest
 
@@ -52,3 +52,9 @@ Dicionário de Termos
 
 Referências
 {: .fw-700 }
+
+===
+
+Última revisão:
+{: .fw-700 }
+29/04/2023
