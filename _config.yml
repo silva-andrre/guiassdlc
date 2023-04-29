@@ -37,7 +37,8 @@ github_repo: guiassdlc
 markdown: kramdown
 theme: just-the-docs
 plugins:
-  - jekyll-feed
+  - jekyll-default-layout
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
