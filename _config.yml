@@ -35,7 +35,7 @@ github_repo: guiassdlc
 
 # Build settings
 markdown: kramdown
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-default-layout
 #  - jekyll-feed
