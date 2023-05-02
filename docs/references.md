@@ -48,7 +48,7 @@ Todas as referências listadas neste documento foram utilizadas como base de est
 
 10 - [Security Champiom](https://www.gartner.com/en/documents/3981371/how-to-design-a-security-champion-program)
 
-12 - Plataformas de treinamento de Segurança: 
+11 - Plataformas de treinamento de Segurança: 
 
 - [Secure Code Warrior](https://www.securecodewarrior.com/)
 
@@ -68,6 +68,8 @@ Todas as referências listadas neste documento foram utilizadas como base de est
 
 - [Appsec Engineer](https://www.appsecengineer.com/product/application-security-essentials)
 
+12 - [DevSecOps](https://www.synopsys.com/blogs/software-security/secure-sdlc/)
+
 13 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 
 14 - [Modelo DREAD](https://docs.microsoft.com/en-us/archive/blogs/david_leblanc/dreadful)
@@ -78,7 +80,6 @@ Todas as referências listadas neste documento foram utilizadas como base de est
 
 17 - [Pentest](https://ostec.blog/geral/pentest-conceito-tipos/)
 
-18 - [DevSecOps](https://www.synopsys.com/blogs/software-security/secure-sdlc/)
 
 Playlists: 
 
